@@ -1,0 +1,16 @@
+PODS:
+  - MovingNumbersView (0.1.0)
+
+DEPENDENCIES:
+  - MovingNumbersView
+
+SPEC REPOS:
+  trunk:
+    - MovingNumbersView
+
+SPEC CHECKSUMS:
+  MovingNumbersView: 24af6d9dbf3979108a7a2a1c77ba23bd8925dc35
+
+PODFILE CHECKSUM: bd915a2e5ceb3ed72ca11da972c7d6cc11bccdb4
+
+COCOAPODS: 1.10.0

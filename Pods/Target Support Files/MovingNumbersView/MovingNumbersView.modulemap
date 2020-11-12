@@ -1,0 +1,6 @@
+framework module MovingNumbersView {
+  umbrella header "MovingNumbersView-umbrella.h"
+
+  export *
+  module * { export * }
+}
